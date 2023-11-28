@@ -18,4 +18,22 @@ Researchers can conveniently access the data for each task from this version, wh
 
 Moreover, we also made available all the trained models we evaluated on the MTF data set. Since these models provide baseline results for the different tasks supported by the data set, by releasing them we aim at facilitating future investigations conducted on this data set.
 
-https://drive.google.com/drive/folders/1PCWnpapplpvfNXqBs5acTqL0nfVuM5uO?usp=drive_link 
+https://drive.google.com/drive/folders/1PCWnpapplpvfNXqBs5acTqL0nfVuM5uO?usp=drive_link
+
+# To Execute the code you can follow these steps
+# 1. Install the Required packages and libraries
+      Provided in the Requirements.txt file
+# 2. The simple codes folder contains the original codes of the simple techniques
+      Saved with their respective names for ease of access
+# 3. For the Proposed Method
+      After you have downloaded the datasets and the models, and have installed the required libraries & packages,
+      1. Open the ipynb file named Separated (for Masking use the Masking New file)
+      2. Change the required paths
+      3. Run the code
+      4. What is noteworthy here is that, if your system is crashed by the number of iterations, do the iterations in batches.
+# 4. For the utilities
+      After you have achieved your desired privacy results, you can now evaluate the anonymized datasets for utilities, follow these steps
+      1. First you need to save the anonymized datasets according to the utility, i.e. race, age, or gender, use the copy new ipynb file to do this
+      
+      
+
