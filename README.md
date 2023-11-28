@@ -25,7 +25,8 @@ To Execute the code you can follow these steps
 # 1. Install the Required packages and libraries
       Provided in the Requirements.txt file
 # 2. The simple codes folder
-      This folder contains the original codes of the simple techniques, saved with their respective names for ease of access
+      1. This folder contains the original codes of the simple techniques, saved with their respective names for ease of access
+      2. The original techniques can be used to get the anonymized images, and then its performance can be assessed
 # 3. For the Proposed Method
       After you have downloaded the datasets and the models, and have installed the required libraries & packages,
       1. Open the ipynb file named Separated (for Masking use the Masking New ipynb file)
@@ -36,7 +37,7 @@ To Execute the code you can follow these steps
       After you have achieved your desired privacy results, you can now evaluate the anonymized datasets for utilities, follow these steps
       1. First you need to save the anonymized datasets according to the utility, i.e. race, age, or gender, use the copy new ipynb file to do this use the Copy New file in the For Utilities folder
       2. Change the paths, and use the respective notebook for each utility
-      3. Make sure that all paths are updated
+      3. Use the trained models
       
       
 
