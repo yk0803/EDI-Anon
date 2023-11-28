@@ -1,5 +1,5 @@
 # EDI-Anon
-Explainability Driven Iterative Image Anonymization
+Explainability-Driven Iterative Image Anonymization
 
 
 
